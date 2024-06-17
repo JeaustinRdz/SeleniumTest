@@ -39,6 +39,6 @@ steps:
   
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(System.DefaultWorkingDirectory)/bin/**/*UnitTestProject1.dll'#Name of the dll of the test
+    PathtoPublish: '$(System.DefaultWorkingDirectory)/bin/Release/UnitTestProject1.dll'#Name of the dll of the test
     ArtifactName: 'drop'
     publishLocation: 'Container'
