@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\v-jeaustinro\\Desktop\\WebApplication1\\UnitTestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\v-jeaustinro\\Desktop\\SeleniumTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBCC4BED-632A-452B-95A4-B0899742FCCC}|UnitTestProject1.csproj|c:\\users\\v-jeaustinro\\desktop\\webapplication1\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBCC4BED-632A-452B-95A4-B0899742FCCC}|UnitTestProject1.csproj|c:\\users\\v-jeaustinro\\desktop\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBCC4BED-632A-452B-95A4-B0899742FCCC}|UnitTestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\v-jeaustinro\\Desktop\\WebApplication1\\UnitTestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\v-jeaustinro\\Desktop\\SeleniumTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\v-jeaustinro\\Desktop\\WebApplication1\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\v-jeaustinro\\Desktop\\SeleniumTest\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBkAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T14:52:03.528Z",
               "EditorCaption": ""
