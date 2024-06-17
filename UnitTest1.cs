@@ -22,6 +22,7 @@ namespace UnitTestProject1
         public void TheBingSearchTest()
         {
             driver.Navigate().GoToUrl(appURL);
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
             Assert.IsFalse(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
         }
 
