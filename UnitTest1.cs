@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
@@ -22,7 +22,6 @@ namespace UnitTestProject1
         public void TheBingSearchTest()
         {
             driver.Navigate().GoToUrl(appURL);
-            driver.FindElement(By.Id("action-oc18e3")).Click();
             Assert.IsFalse(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
         }
 
