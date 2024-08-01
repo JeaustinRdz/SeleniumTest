@@ -1,4 +1,4 @@
-This is an example of how to do a simple selenium test
+This is an example of how to do a simple selenium test 
 
 Please follow the next steps:
 
